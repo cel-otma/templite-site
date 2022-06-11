@@ -1,1 +1,1 @@
-# templite-site
+# GenericWebTemplate
